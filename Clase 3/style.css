@@ -1,0 +1,18 @@
+body {
+    background-color: #D1E8E4;
+    max-width: 1024px;
+    margin: 20mp;
+    text-align: justify;
+    line-height: 1.5;
+    font-family: arial, helvetica, sans-;
+
+}
+h1 {background-color: #BCCC9A;
+border-radius: 10mp;
+padding: 2%;
+border: #C37B89 8mp double;
+}
+h2 {
+    border: #EAE7C6 8px groove;
+
+}
